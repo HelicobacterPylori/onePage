@@ -17,15 +17,16 @@
 
 ### 使用技術
 
-|要路|使用技術|参考URL|
+|用途|使用技術|参考URL|
 |:--|:--|:-|
 |実行環境|Nodex.js|https://ja.wikipedia.org/wiki/Node.js|
 |プログラム言語|TypeScript|https://ja.wikipedia.org/wiki/TypeScript|
 |フロンドエンドフレームワーク|Next.js|https://nextjs.org/|
 |CSSフレームワーク|Tailwindcss|https://tailwindcss.jp/|
+|webdavアクセス|webdav|https://www.npmjs.com/package/webdav|
 |Excelファイル操作|xlsx-populate-wrapper|https://www.npmjs.com/package/xlsx-populate-wrapper|
 |ファイルアップロード補助|formidable|https://www.npmjs.com/package/formidable|
 |ソース管理|Github|https://github.com/HelicobacterPylori/onepage|
-|サーバサービス|Vercel|https://vercel.com/helicobacterpylori/onepage|
+|サーバサービス|Vercel|https://vercel.com/|
 |PDFのOCR|Google Cloud Vision API|https://cloud.google.com/vision|
 |全文検索|Amazon Open Search Service|https://aws.amazon.com/jp/opensearch-service/|
