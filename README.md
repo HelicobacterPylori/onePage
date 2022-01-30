@@ -33,11 +33,11 @@
 
 ### 構成図
 
-![fig1](http://www.plantuml.com/plantuml/proxy?fmt=svg&src=https://raw.githubusercontent.com/HelicobacterPylori/onepage/main/fig1.puml)
+![fig1](http://www.plantuml.com/plantuml/proxy?fmt=svg&src=https://raw.githubusercontent.com/HelicobacterPylori/onepage/main/fig1.puml?cache=no)
 
 ### 画面案
 
-![fig2](http://www.plantuml.com/plantuml/proxy?fmt=svg&src=https://raw.githubusercontent.com/HelicobacterPylori/onepage/main/fig2.puml)
+![fig2](http://www.plantuml.com/plantuml/proxy?fmt=svg&src=https://raw.githubusercontent.com/HelicobacterPylori/onepage/main/fig2.puml?cache=no)
 
 ### 公開URL
 
