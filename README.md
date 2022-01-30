@@ -2,6 +2,10 @@
 
 * Next.jsの学習を兼ねて、PDFファイルの管理アプリを作成する。
 
+### 構成図
+
+![fig1](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuKfCBialKYWjJYqoL4WiLb1wsh7o-PGLBnfQbRZIYX9pKnMIYlBBWR9WoSVDqnuthtpSjEnnqpObhkIS_D8KXSoyajIYlDGIY8Ac9O-RDpzksl-uUS_Zvjx7pSsFcpkK5Agv51GWfeMb5YMdvi2vxfab6QL9S6w8jolOKAvQBeYBR7IBCjCpIdJjOCxWWj886QYH2bOA6IKb1LmG7bmQQWDGzaNxggVTKvzkdFfoMZT2LKf-UPwk7TnY1Qlmr2GNnp0kQBYaf9P1WWMewVdCNU1W0OlfvgIc0Ir76F-uQI_8pqqxNxRsFj-xZiiXDIy56Bu0)
+
 ### 仕様
 
 * 必須機能
