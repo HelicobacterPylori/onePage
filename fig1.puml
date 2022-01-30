@@ -4,12 +4,12 @@ frame browser as "ブラウザ"
 cloud internet as "インターネット" {
   frame Vercel
   frame Github
-  frame TKEcloud
+  frame ownCloud
 }
 user1 <-right-> browser
 browser <-right-> Vercel : http
 Vercel <-right- Github : 自動展開
-Vercel <-down-> TKEcloud :WebDAV
+Vercel <-down-> ownCloud :WebDAV
 
 actor dev1 as "開発者"
 dev1 -left-> Github : ソース配置
