@@ -19,7 +19,7 @@
 
 |用途|使用技術|参考URL|
 |:--|:--|:-|
-|実行環境|Nodex.js|https://ja.wikipedia.org/wiki/Node.js|
+|実行環境|Node.js|https://ja.wikipedia.org/wiki/Node.js|
 |プログラム言語|TypeScript|https://ja.wikipedia.org/wiki/TypeScript|
 |フロンドエンドフレームワーク|Next.js|https://nextjs.org/|
 |CSSフレームワーク|Tailwindcss|https://tailwindcss.jp/|
@@ -38,3 +38,9 @@
 ### 画面案
 
 ![fig2](http://www.plantuml.com/plantuml/proxy?fmt=svg&src=https://raw.githubusercontent.com/HelicobacterPylori/onepage/main/fig2.puml)
+
+### 公開URL
+
+http://onepage-gules.vercel.app/
+
+(2022/1/30現在、中身はNext.jsの初期ページのまま)
